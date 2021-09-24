@@ -15,3 +15,4 @@ Troisième phase :
 • Confirmation de la part de l’agent AH.
 • L’arrêt de tous les agents AH ainsi que le AR.
 • Réception de meilleure offre (AI).
+![image](https://user-images.githubusercontent.com/60525199/134709559-917a241a-42aa-4757-aa1e-fec426c7f702.png)
